@@ -12,8 +12,6 @@
  Text Domain:  twenty-nineteen-child
 */
 
-@import url("../twentynineteen/style.css");
-
 body {
-  background: pink;
+  background: lightcyan;
 }
